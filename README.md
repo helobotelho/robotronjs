@@ -1,1 +1,3 @@
-# robotron-2000
+# Projeto Realizado para Estudo de JavaScript
+
+### Curso: JavaScript: manipulando o DOM || Alura
