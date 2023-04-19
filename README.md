@@ -1,2 +1,1 @@
-# robotronjs
-Projeto Robotron em JavaScript - Alura
+# robotron-2000
